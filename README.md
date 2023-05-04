@@ -1,2 +1,0 @@
-# FLASHCARD
-with local database
